@@ -94,7 +94,7 @@ outShowColumnLoop:
     j    showRowLoop
 outShowRowLoop:
     jalr zero, ra, 0
-
+#----
 # ----------------------------------------
 
 rgb888_to_rgb565:
